@@ -1,0 +1,25 @@
+# Change these first
+owner: ask4physics # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
+
+sites:
+  - name: MDIS OPAC.
+    url: https://mdis.spydus.com.sg/
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: demo.upptime.js.org
+  baseUrl: /uptime
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Upptime
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: ""
+  navbar:
+    - title: Status
+      href: https://ask4physics.github.io/uptime/
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
