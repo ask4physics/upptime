@@ -17,7 +17,7 @@ status-website:
   introMessage: ""
   navbar:
     - title: Status
-      href: https://ask4physics.github.io/uptime/
+      href: https://ask4physics.github.io/upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
