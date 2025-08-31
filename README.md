@@ -1,4 +1,4 @@
-# [📈 Live Status](https://ask4physics.github.io/upptime): <!--live status--> **🟥 Complete outage**
+# [📈 Live Status](https://github.com/ask4physics/upptime): <!--live status--> **🟥 Complete outage**
 
 This repository contains the open-source uptime monitor and status page for [MDIS OPAC](https://mdis.spydus.com.sg/), powered by [Upptime](https://github.com/upptime/upptime).
 
